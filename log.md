@@ -1,13 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 1st, 2022 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Started React basics course on Scrimba, 1 hour
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Started the React course in preparation for my classes beginning at the end of January.
+So far I like React but can already tell that it will change my way of thinking about layout and separation of concerns. Curious to find out more.
+ 
+**Link to work:** [First static React page with one liner](link to be added)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
