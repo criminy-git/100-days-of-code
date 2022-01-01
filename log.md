@@ -8,7 +8,7 @@
 **Thoughts:** Started the React course in preparation for my classes beginning at the end of January.
 So far I like React but can already tell that it will change my way of thinking about layout and separation of concerns. Curious to find out more.
  
-**Link to work:** [First static React page with one liner](link to be added)
+**Link to work:** [First static React page with one liner] (https://criminy-git.github.io/React-Static-App/)
 
 --- 
 
