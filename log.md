@@ -22,7 +22,18 @@ So far I like React but can already tell that it will change my way of thinking 
 
 --- 
 
-### Day : January  , 2022 (Draft)
+### Day 3: January 3rd, 2022
+
+**Today's Progress**: Repeated CSS styling of React components section, revision of how to style navbar and footer, how to use flexbox to align items horizontally and add the correct spacing between them, played around with styling, good repetition. 
+
+**Thoughts**: Glad I took the time to revise these topics. Still unsure how to wrap the component sections into a flex wrapper as the main component and the header / footer are in different divs. Going to find out until tomorrow.
+
+**Link to work**: [First static React page with navbar, list and footer, all styled with CSS ](https://criminy-git.github.io/React-Static-App/) (hopefully will update code shortly after I commented out previous code)
+
+
+--- 
+
+### Day : January , 2022 (Draft)
 
 **Today's Progress**: 
 
