@@ -33,6 +33,16 @@ So far I like React but can already tell that it will change my way of thinking 
 
 --- 
 
+### Day 4: January 4th, 2022
+
+**Today's Progress**: Learned how to organise components into their own files and how to import/export them. Then took a deep dive into installing node via nvm, learning more about the commmand line while I was at it. 
+
+**Thoughts**: Feels like not much progress today while it feels like a lot at the same time. Not comfortable installing programs through the terminal yet for some reason, unfamiliar UI. Hoping it will all come together and make sense shortly. 
+
+**Link to work**: not today, theoretical day reorganising code and installing node and nvm
+
+--- 
+
 ### Day : January , 2022 (Draft)
 
 **Today's Progress**: 
