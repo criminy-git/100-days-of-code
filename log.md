@@ -43,6 +43,17 @@ So far I like React but can already tell that it will change my way of thinking 
 
 --- 
 
+### Day : January 5th, 2022 
+
+**Today's Progress**: Today I took a deep dive into node.js in an attempt to understand better what it is and does, after I installed it yesterday via the command line. Trying to get a solid mental model of node.js, nvm, npm. Second half of the coding today was building a Javascript clock from scratch, but I built a timer instead haha. Having another go at this tomorrow.
+
+**Thoughts**: Feeling a bit discouraged by the vastness of every topic I come across when doing simple repetition, like node.js. Every new term is a whole new world, and it is easy to get overwhelmed. Just like starting a project from scratch and then going down the wrong rabbit hole. But that is ok, I will push on and weather the storm of new knowledge, I can do this. Also Revised my resume today.
+
+**Link to work**: Link to clock coming tomorrow.
+
+---
+
+
 ### Day : January , 2022 (Draft)
 
 **Today's Progress**: 
