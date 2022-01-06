@@ -53,6 +53,20 @@ So far I like React but can already tell that it will change my way of thinking 
 
 ---
 
+### Day : January 6th, 2022 (Draft)
+
+**Today's Progress**: Today I:
+- learned how to add a collaborator on github (working on a collaborative side project)
+- made mindmap of what I know so far including node, npm, npx, nvm, shells 
+- learned more about foundational knowledge regarding terminal, shells (bash, powershell, cmd)
+- installed react app and started my first react app
+- continued with my react course
+- am making the clock project from yesterday
+
+**Thoughts**: Going to collect as many pieces of information I can to connect current knowledge in mindmap and expand as I continue on this journey. Excited to finally get started with React, figuring out best way to run a page in a way I can display it here
+
+**Link to work**: [ ]( )
+---
 
 ### Day : January , 2022 (Draft)
 
