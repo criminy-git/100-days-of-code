@@ -53,7 +53,7 @@ So far I like React but can already tell that it will change my way of thinking 
 
 ---
 
-### Day : January 6th, 2022 (Draft)
+### Day 6: January 6th, 2022 (Draft)
 
 **Today's Progress**: Today I:
 - learned how to add a collaborator on github (working on a collaborative side project)
@@ -65,7 +65,15 @@ So far I like React but can already tell that it will change my way of thinking 
 
 **Thoughts**: Going to collect as many pieces of information I can to connect current knowledge in mindmap and expand as I continue on this journey. Excited to finally get started with React, figuring out best way to run a page in a way I can display it here
 
-**Link to work**: [ ]( )
+---
+
+### Day 7: January 7th, 2022
+
+**Today's Progress**: Learned about Git, completed video tutorial and practiced git commands, creating directories, cloning repos, staging and committing changes. Big step there. Then moved onto Javascript calculator project and feeling overwhelmed. Considering taking a step back to JavaScript?
+
+**Thoughts**: Not a great day mentally, really struggling to assess if I am overstretching by going for a React course while expanding JavaScript foundations.
+
+**Link to work**: Nothing today except for a few command line git screenshots and a half finished calculator
 ---
 
 ### Day : January , 2022 (Draft)
