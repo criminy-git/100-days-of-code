@@ -76,11 +76,12 @@ So far I like React but can already tell that it will change my way of thinking 
 **Link to work**: Nothing today except for a few command line git screenshots and a half finished calculator
 ---
 
-### Day : January , 2022 (Draft)
+### Day 8: January 8th, 2022 
 
-**Today's Progress**: 
+**Today's Progress**: Learned about APIs, wrote my first fetch(), was super excited when it worked. Sorted through all my notes from studying over the past months for review.
+Continued on JavaScript calculator collaboration, successfully finished including an addition to the code that makes it a broken calculator (for a challenge entry), learner about modal boxes on the side, just need to finish some formatting tomorrow. Revised git commands. Many hours of coding today, at least 4.
 
-**Thoughts**:
+**Thoughts**: Feeling much better about my progress than yesterday. More and more dots connect and every day I know more.
 
-**Link to work**: [ ]( )
+**Link to work**: [Broken calculator project]( )
 
