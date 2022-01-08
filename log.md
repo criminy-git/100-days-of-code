@@ -83,5 +83,5 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 
 **Thoughts**: Feeling much better about my progress than yesterday. More and more dots connect and every day I know more.
 
-**Link to work**: [Broken calculator project]( )
+**Link to work**: [Broken calculator project](https://github.com/criminy-git/Challenge---Broken-Calculator)
 
