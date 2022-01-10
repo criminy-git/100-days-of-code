@@ -24,7 +24,7 @@ So far I like React but can already tell that it will change my way of thinking 
 
 **Thoughts**: Glad I took the time to revise these topics. Still unsure how to wrap the component sections into a flex wrapper as the main component and the header / footer are in different divs. Going to find out until tomorrow.
 
-**Link to work**: [First static React page with navbar, list and footer, all styled with CSS ](https://criminy-git.github.io/React-Static-App/) (hopefully will update code shortly after I commented out previous code)
+**Link to work**: First static React page with navbar, list and footer, all styled with CSS, not displaying in browser due to dependencies
 
 
 --- 
