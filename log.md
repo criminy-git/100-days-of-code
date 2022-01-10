@@ -71,7 +71,7 @@ So far I like React but can already tell that it will change my way of thinking 
 
 ---
 
-### Day 9: January 8th, 2022 
+### Day 8: January 8th, 2022 
 
 **Today's Progress**: Learned about APIs, wrote my first fetch(), was super excited when it worked. Sorted through all my notes from studying over the past months for review.
 Continued on JavaScript calculator collaboration, successfully finished including an addition to the code that makes it a broken calculator (for a challenge entry), learned about modal boxes on the side, just need to finish some formatting tomorrow. Revised git commands. Many hours of coding today, at least 4.
@@ -84,7 +84,7 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 
 ### Day 9: January 9th, 2022
 
-**Today's Progress**: Learned more about APIs, built Bored Bot which suggests random activities and displays a random dog picture to cheer the bored person up. People I know have successfully used it so far, which was fun.
+**Today's Progress**: Learned more about APIs, built Bored Bot which suggests random activities and displays a random dog picture to cheer the bored person up. People I know have successfully used it so far, which was fun. Updated my entire Github (all repos), added readme notes, linked to correct Twitter, learned how to properly fork a repo I was a contributor on to display latest version on my Github.
 
 **Thoughts**: Very productive day, really implemented API knowledge and practiced CSS styling as well as DOM manipulation with JavaScript.
 
@@ -93,7 +93,7 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 
 ### Day 10: January 10, 2022
 
-**Today's Progress**: Learned about servers & clients, requeset/response cycle, request components (URL, method, body, headers), JSON. Practiced slice() again when using part of the array that was requested to build a blog post project. Made some progress in CSS revision (typography - using margin and padding of text elements to balance gaps) and solved remaining issue with current JavaScript project (calculator).
+**Today's Progress**: Learned about servers & clients, requeset/response cycle, request components (URL, method, body, headers), JSON. Practiced slice() again when using part of the array that was requested to build a blog post project. Made some progress in CSS revision (typography - using margin and padding of text elements to balance gaps) and solved remaining issue with current JavaScript project (calculator) - sometimes a bigger resolution image file is the solution, not more css!
 
 **Thoughts**: Working on different areas at once is helpful to keep me engaged in learning, and often the different sections come together during a project.
 
