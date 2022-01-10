@@ -7,8 +7,6 @@
 
 **Thoughts:** Started the React course in preparation for my classes beginning at the end of January.
 So far I like React but can already tell that it will change my way of thinking about layout and separation of concerns. Curious to find out more.
- 
-**Link to work:** [First static React page with one liner] (https://criminy-git.github.io/React-Static-App/)
 
 ---
 
@@ -17,8 +15,6 @@ So far I like React but can already tell that it will change my way of thinking 
 **Today's Progress**: Continued React basics course, 2 hours (10 videos)
 
 **Thoughts**: Great pace of the course, it all makes a lot of sense. Enjoying writing React which is good. Learned the concept of components, more syntax differences (compared to HTML) when using JSX for components, started simple navbar styling in CSS for React component. Managed to get the final 20 minutes of study in, feeling proud of myself.
-
-**Link to work**: Will be uploaded in next udpate.
 
 --- 
 
@@ -43,17 +39,15 @@ So far I like React but can already tell that it will change my way of thinking 
 
 --- 
 
-### Day : January 5th, 2022 
+### Day 5: January 5th, 2022 
 
 **Today's Progress**: Today I took a deep dive into node.js in an attempt to understand better what it is and does, after I installed it yesterday via the command line. Trying to get a solid mental model of node.js, nvm, npm. Second half of the coding today was building a Javascript clock from scratch, but I built a timer instead haha. Having another go at this tomorrow.
 
 **Thoughts**: Feeling a bit discouraged by the vastness of every topic I come across when doing simple repetition, like node.js. Every new term is a whole new world, and it is easy to get overwhelmed. Just like starting a project from scratch and then going down the wrong rabbit hole. But that is ok, I will push on and weather the storm of new knowledge, I can do this. Also Revised my resume today.
 
-**Link to work**: Link to clock coming tomorrow.
-
 ---
 
-### Day 6: January 6th, 2022 (Draft)
+### Day 6: January 6th, 2022 
 
 **Today's Progress**: Today I:
 - learned how to add a collaborator on github (working on a collaborative side project)
@@ -74,14 +68,48 @@ So far I like React but can already tell that it will change my way of thinking 
 **Thoughts**: Not a great day mentally, really struggling to assess if I am overstretching by going for a React course while expanding JavaScript foundations.
 
 **Link to work**: Nothing today except for a few command line git screenshots and a half finished calculator
+
 ---
 
-### Day 8: January 8th, 2022 
+### Day 9: January 8th, 2022 
 
 **Today's Progress**: Learned about APIs, wrote my first fetch(), was super excited when it worked. Sorted through all my notes from studying over the past months for review.
-Continued on JavaScript calculator collaboration, successfully finished including an addition to the code that makes it a broken calculator (for a challenge entry), learner about modal boxes on the side, just need to finish some formatting tomorrow. Revised git commands. Many hours of coding today, at least 4.
+Continued on JavaScript calculator collaboration, successfully finished including an addition to the code that makes it a broken calculator (for a challenge entry), learned about modal boxes on the side, just need to finish some formatting tomorrow. Revised git commands. Many hours of coding today, at least 4.
 
 **Thoughts**: Feeling much better about my progress than yesterday. More and more dots connect and every day I know more.
 
 **Link to work**: [Broken calculator project](https://github.com/criminy-git/Challenge---Broken-Calculator)
+
+---
+
+### Day 9: January 9th, 2022
+
+**Today's Progress**: Learned more about APIs, built Bored Bot which suggests random activities and displays a random dog picture to cheer the bored person up. People I know have successfully used it so far, which was fun.
+
+**Thoughts**: Very productive day, really implemented API knowledge and practiced CSS styling as well as DOM manipulation with JavaScript.
+
+**Link to work**: [Random Activity Bot project](https://criminy-git.github.io/random-activity-bot/)
+---
+
+### Day 10: January 10, 2022
+
+**Today's Progress**: Learned about servers & clients, requeset/response cycle, request components (URL, method, body, headers), JSON. Practiced slice() again when using part of the array that was requested to build a blog post project. Made some progress in CSS revision (typography - using margin and padding of text elements to balance gaps) and solved remaining issue with current JavaScript project (calculator).
+
+**Thoughts**: Working on different areas at once is helpful to keep me engaged in learning, and often the different sections come together during a project.
+
+---
+
+### Day : January , 2022
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Link to work**: []()
+
+---
+
+
+
+
 
