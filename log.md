@@ -99,6 +99,16 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 
 ---
 
+### Day 11: January 11th, 2022
+
+**Today's Progress**: Created first React page with React app, revised React knowledge so far. Attended 2h Intro to Google Analytics seminar, confirmed I am more interested in coding than I am in marketing but good to know more about this side of things as well. Lastly practiced JavaScript concepts, modal and started searchbar that matches against usernames. 
+
+**Thoughts**: Looking forward to adding more JavaScript concepts to my skill base, finding the coding exercises easier slowly but surely. Learning to think a certain way. React is still fun and makes a lot of sense to me.
+
+**Link to work**: [Modal Practice](https://criminy-git.github.io/modal/)
+
+---
+
 ### Day : January , 2022
 
 **Today's Progress**:
