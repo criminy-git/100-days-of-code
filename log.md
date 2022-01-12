@@ -109,13 +109,13 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 
 ---
 
-### Day : January , 2022
+### Day 12: January 12th, 2022
 
-**Today's Progress**:
+**Today's Progress**: Practiced JavaScript, made a searchbar for a username list, practising includes() to search current user input against a user list and change display property pracitising DOM manipulation.
 
-**Thoughts**: 
+**Thoughts**: Really tired today from first day back at work after some weeks of leave, feeling annoyed that work is taking up a lot of time and energy during the day. Proud I still stuck with coding today, even if I just got one step ahead, better than none.
 
-**Link to work**: []()
+**Link to work**: [Searchbar for Username list](https://criminy-git.github.io/search-bar-username/)
 
 ---
 
