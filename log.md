@@ -119,7 +119,11 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 
 ---
 
+### Day 13: January 13th, 2023
 
+**Today's Progress**: Started reading book about JavaScript, learned what REST API means, revised styling of blog project.
 
+**Thoughts**: Really tired again after work. Need to find better energy management. Looking forward to the weekend to study more.
 
+---
 
