@@ -127,3 +127,26 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 
 ---
 
+---
+
+### Day 14: January 17th, 2022
+
+**Today's Progress**: Read Chapter 2 of Eloquent JavaScript. Tried to refactor colour palette generator code using modules. Half succeeded. To be continued tomorrow.
+
+**Thoughts**: Took some time off over the weekend to avoid burning out. Hard to get back into it due to lacking confidence when it comes to modules.
+
+**Link to work**: []()
+
+---
+
+### Day : January th, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: []()
+
+---
+
+
