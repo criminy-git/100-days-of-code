@@ -135,9 +135,16 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 
 **Thoughts**: Took some time off over the weekend to avoid burning out. Hard to get back into it due to lacking confidence when it comes to modules.
 
-**Link to work**: []()
+---
+
+### Day 15: January 18th, 2022
+
+**Today's Progress**: Finished Applied Visual Design course. Practised JavaScript and modularising applications.
+
+**Thoughts**: Back into the swing of things, just needed to find a new rythmn with work.
 
 ---
+
 
 ### Day : January th, 2022
 
@@ -146,7 +153,5 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 **Thoughts**: 
 
 **Link to work**: []()
-
----
 
 
