@@ -145,6 +145,15 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 
 ---
 
+### Day 16: January 19th, 2022
+
+**Today's Progress**: Revised JavaScript, really focusing on strengthening the foundations and closing any little gaps there may have been.
+
+**Thoughts**: Feeling good about reaching out for support. Solved a problem with an issue with a JavaScript program at work that the developer himself couldn't solve, felt good to apply analytical problem solving skills.
+
+
+---
+
 
 ### Day : January th, 2022
 
