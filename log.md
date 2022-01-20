@@ -155,6 +155,14 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 ---
 
 
+### Day 17: January 20th, 2022
+
+**Today's Progress**: Solved JavaScript coding questions, started a new project to streamline my day job. Started chapter three of Eloquent JavaScript. Learned about XML http requests and control flow.
+
+**Thoughts**: Going to continue JavaScript revision until the end of the week and then focus back on React.
+
+---
+
 ### Day : January th, 2022
 
 **Today's Progress**: 
