@@ -151,15 +151,21 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 
 **Thoughts**: Feeling good about reaching out for support. Solved a problem with an issue with a JavaScript program at work that the developer himself couldn't solve, felt good to apply analytical problem solving skills.
 
-
 ---
-
 
 ### Day 17: January 20th, 2022
 
 **Today's Progress**: Solved JavaScript coding questions, started a new project to streamline my day job. Started chapter three of Eloquent JavaScript. Learned about XML http requests and control flow.
 
 **Thoughts**: Going to continue JavaScript revision until the end of the week and then focus back on React.
+
+---
+
+### Day 18: January 21th, 2022
+
+**Today's Progress**: Picked a concept to learn about today. Closures vs scope. Learned a lot about both, their differences and how they compare to each other, took notes, studied examples and built my own simple analogies. Learned defition of terms "callback" and "IDE". Started to learn more about network requests, learned about stack, how it works throughout execution of an async function. Continued Chapter 3.
+
+**Thoughts**: Sometimes it is important to come back to a topic after having picked up a different topic first which helps with understanding of the first concept.
 
 ---
 
