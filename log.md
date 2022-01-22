@@ -169,6 +169,16 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 
 ---
 
+### Day 19: January 22th, 2022
+
+**Today's Progress**: Today's concept: Promises. Finished API project using fetch() with promises to make 150 network requests at once. Signed up to Leetcode and aiming to solve one problem daily. Practised git commands, pushing updated files to Github. Read about clean code principles. 
+
+**Thoughts**: Productive day! Important to take breaks and come back to a problems.
+
+**Link to work**: [Pokedex Api Project](https://criminy-git.github.io/api-project-pokedex/)
+
+---
+
 ### Day : January th, 2022
 
 **Today's Progress**: 
@@ -176,5 +186,6 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 **Thoughts**: 
 
 **Link to work**: []()
+
 
 
