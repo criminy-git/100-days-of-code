@@ -183,7 +183,7 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 
 **Today's Progress**: Started a new API project to transfer knowledge, team project for a challenge entry.
 Finished React pre-work for course, repeated starting a React app from scratch, practiced more command line. 
-Learned difference between state and drops.
+Learned difference between state and props.
 
 **Thoughts**: Lots of new information at once this weekend.
 Happy when I figured out how to adapt code to access different object properties within an API object.
