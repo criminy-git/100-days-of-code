@@ -190,6 +190,16 @@ Happy when I figured out how to adapt code to access different object properties
 
 ---
 
+### Day 21: January 24th, 2022
+
+**Today's Progress**: Learned about promises and practised in current API project (challenge entry).
+Learned about React class components and state. Started React TicTacToe game.
+
+**Thoughts**: Spent pretty much all day coding. CSS in the evening was almost like a break, but did enjoy React.
+Just need to sort all the information in my head.
+
+---
+
 ### Day : January th, 2022
 
 **Today's Progress**: 
