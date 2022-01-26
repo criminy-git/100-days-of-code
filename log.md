@@ -200,6 +200,27 @@ Just need to sort all the information in my head.
 
 ---
 
+### Day 22: January 25th, 2022
+
+**Today's Progress**: Tried to understand promises, callback functions and Async JavaScript better.
+Practiced git. Working through JS fundamentals with GA prep course, filling in more gaps. 
+
+**Thoughts**: There's a long way to go.
+
+---
+
+### Day 23: January 26th, 2022
+
+**Today's Progress**: Found a good resource explaining callback functions. Finished API team project, 
+didn't get everything implemented I wanted but not a bad outcome.
+
+**Thoughts**: Time to refocus on the course along with fundamentals.
+
+**Link to work**: [Second API project practising promises](https://criminy-git.github.io/api-challenge-project/)
+
+
+---
+
 ### Day : January th, 2022
 
 **Today's Progress**: 
