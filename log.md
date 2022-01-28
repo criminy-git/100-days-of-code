@@ -228,3 +228,25 @@ Attended intro to my General Assembly course starting next week!!
 
 **Thoughts**: Slow and steady wins the race.
 
+---
+
+### Day 26: January 28th, 2022
+
+**Today's Progress**: Only repeated one exercise today (chessboard) but nailed it, just knew what to do and how to
+build the code block logically without memorising any code etc, it was a great moment.
+All coming from a lot of trial and error when learning, led to greater understanding.
+Confident I could replicate this solution any time with varying degrees of
+reusability of code, could produce intentional variations of the outcome as well.
+
+**Thoughts**: On the right track.
+
+---
+
+### Day : January th, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: []()
+
