@@ -221,11 +221,10 @@ didn't get everything implemented I wanted but not a bad outcome.
 
 ---
 
-### Day : January th, 2022
+### Day 24: January 27th, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Practiced exercises from Eloquent JavaScript again, JS revision. 
+Attended intro to my General Assembly course starting next week!!
 
-**Thoughts**: 
-
-**Link to work**: []()
+**Thoughts**: Slow and steady wins the race.
 
