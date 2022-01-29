@@ -242,6 +242,17 @@ reusability of code, could produce intentional variations of the outcome as well
 
 ---
 
+### Day 27: January 29th, 2022
+
+**Today's Progress**: Started my first React project by myself with newfound working method of building things through trial and error from scratch, 
+following a tutorial but building it myself through create-react-app. Understood a lot more about import/export, what to name components and the import syntax,
+how to link a css file in a similar way to a React component. 
+Tying in my knowledge of git and command line and npm with all this too.
+
+**Thoughts**: Feel like I am building up my understanding of React from the ground up. Feels good, very low amount of frustration today.
+
+---
+
 ### Day : January th, 2022
 
 **Today's Progress**: 
