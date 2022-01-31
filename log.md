@@ -270,6 +270,9 @@ Excited about General Assembly React course starting tomorrow but wondering if
 my brain is single or multithreaded. Bad attempt at a programming joke! 😏
 
 Also: Coded 28/31 days in January! Success in building a habit 🎉
+
+---
+---
 ---
 
 ### Day 28: January 31st, 2022
