@@ -253,11 +253,31 @@ Tying in my knowledge of git and command line and npm with all this too.
 
 ---
 
-### Day : January th, 2022
+###:Day 28: January 31st, 2022
+
+***Today's progress***: Started building mental model to understand how bundlers like webpack and compilers like babel benefit performance of an application.
+Repeated three exercises from Eloquent JavaScript Chapter 2, able to debug and solve all threee now (seemed like an impossible mountain two weeks ago).
+Read article on var/let/const and scope, solidified my understanding.
+-
+Read chapter 3 of Eloquent JavaScript.
+Attempted leetcode problems.
+Progressed in callbacks & promised section of Frontend Career Path.
+🏄‍♀️
+
+**Thoughts**: Can see progress in being able to do things I wasn't able to do before.
+(Complete challenges chapter 2, read through chapter 3 in one go understanding nearly everything).
+Excited about General Assembly React course starting tomorrow but wondering if 
+my brain is single or multithreaded. Bad attempt at a programming joke! 😏
+
+Also: Coded 28/31 days in January! Success in building a habit 🎉
+---
+
+### Day 28: January 31st, 2022
 
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link to work**: []()
+
 
