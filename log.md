@@ -279,7 +279,7 @@ Also: Coded 28/31 days in January! Success in building a habit 🎉
 
 **Today's Progress**: Started great React overview tutorial on LinkedIn.
 First React live class at GA, met classmates, went over coursework, course structure
-and learned difference between fictional and class components as well as npx vs no npx command before react-app
+and learned difference between functional and class components as well as npx vs no npx command before react-app
 
 **Thoughts**: Happy that live classes have started and expanded my initial idea for my final project!
 
@@ -288,7 +288,7 @@ and learned difference between fictional and class components as well as npx vs 
 ### Day 30: February 2nd, 2022
 
 **Today's Progress**: Had to take a break tonight, earlier today attended Canva live interview on LinkedIn,
-processed in UI module and getting hired advice module.
+progressed in UI module and getting hired advice module.
 
 **Thoughts**: 
 
