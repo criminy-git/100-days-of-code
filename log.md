@@ -290,9 +290,17 @@ and learned difference between functional and class components as well as npx vs
 **Today's Progress**: Had to take a break tonight, earlier today attended Canva live interview on LinkedIn,
 progressed in UI module and getting hired advice module.
 
-**Thoughts**: 
+---
 
-**Link to work**: []()
+### Day 31: February 3rd, 2022
+
+**Today's Progress**: Second React class, thrown into the deep end! Sink or swim time.
+Learning about passing props through components and functional and class components. Lots of teamwork.
+Homework is writing first React App with components.
+
+**Thoughts**: Felt honestly overwhelmed as confused due to constant switching between class and functional
+components. Focused on working out how to push homework into remote repository, then going to go over
+class components again today piece by piece. Break problem into smaller pieces.
 
 ---
 
@@ -303,6 +311,4 @@ progressed in UI module and getting hired advice module.
 **Thoughts**: 
 
 **Link to work**: []()
-
----
 
