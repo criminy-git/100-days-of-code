@@ -304,6 +304,15 @@ class components again today piece by piece. Break problem into smaller pieces.
 
 ---
 
+### Day 32: February 4th, 2022
+
+**Today's Progress**: Practiced nested function components. Refamiliarised myself with .map() method.
+Wrote explanations of concepts back and forth with a fellow student.
+
+**Thoughts**: The writing back and forth greatly helped my understanding.
+
+--- 
+
 ### Day : February nd, 2022
 
 **Today's Progress**: 
