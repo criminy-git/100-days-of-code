@@ -311,13 +311,25 @@ Wrote explanations of concepts back and forth with a fellow student.
 
 **Thoughts**: The writing back and forth greatly helped my understanding.
 
---- 
+---
 
-### Day : February nd, 2022
+### Day 33: February 5th, 2022
+
+**Today's Progress**: Wrote my first nested dynamic components.
+Getting used to the React environment.
+
+**Thoughts**: Slow progress but the concept is setting in.
+
+---
+
+### Day : February th, 2022
 
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link to work**: []()
+
+---
+
 
