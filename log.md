@@ -322,6 +322,18 @@ Getting used to the React environment.
 
 ---
 
+### Day 34: February 11th, 2022
+
+**Today's Progress**: Studied with student from new React class for three hours. Built my first standalone React page with nested components, 
+passing in props and rendering images. Using .map() and css styling.
+
+**Thoughts**: Have to dig deeper into state, but component management significantly improved today.
+
+**Link to work**: [Artist page made with react-app](https://github.com/criminy-git/react-project-artist-page)
+
+---
+---
+
 ### Day : February th, 2022
 
 **Today's Progress**: 
