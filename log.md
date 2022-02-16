@@ -332,6 +332,16 @@ passing in props and rendering images. Using .map() and css styling.
 **Link to work**: [Artist page made with react-app](https://github.com/criminy-git/react-project-artist-page)
 
 ---
+
+### Day 35: February 15th, 2022
+
+**Today's Progress**: Spent all day learning about functional components, state in functional components, why React evolved from class
+components to functional components, immutable data types. Practiced by creating a to do list in React using functional components.
+
+**Thoughts**: Need to master the switch from class to functional components.
+
+**Link to work**: uploading tomorrow
+
 ---
 
 ### Day : February th, 2022
@@ -343,5 +353,4 @@ passing in props and rendering images. Using .map() and css styling.
 **Link to work**: []()
 
 ---
-
 
