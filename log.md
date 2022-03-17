@@ -105,7 +105,7 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 
 **Thoughts**: Looking forward to adding more JavaScript concepts to my skill base, finding the coding exercises easier slowly but surely. Learning to think a certain way. React is still fun and makes a lot of sense to me.
 
-**Link to work**: [Modal Practice](https://criminy-git.github.io/modal/)
+**Link to work**: [Modal Practice](https://github.com/j-pohl/modal)
 
 ---
 
@@ -115,7 +115,7 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 
 **Thoughts**: Really tired today from first day back at work after some weeks of leave, feeling annoyed that work is taking up a lot of time and energy during the day. Proud I still stuck with coding today, even if I just got one step ahead, better than none.
 
-**Link to work**: [Searchbar for Username list](https://criminy-git.github.io/search-bar-username/)
+**Link to work**: [Searchbar for Username list](https://github.com/j-pohl/search-bar-username)
 
 ---
 
@@ -175,7 +175,7 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 
 **Thoughts**: Productive day! Important to take breaks and come back to a problems.
 
-**Link to work**: [Pokedex Api Project](https://criminy-git.github.io/api-project-pokedex/)
+**Link to work**: [Pokedex Api Project](https://github.com/j-pohl/api-project-pokedex)
 
 ---
 
@@ -329,7 +329,7 @@ passing in props and rendering images. Using .map() and css styling.
 
 **Thoughts**: Have to dig deeper into state, but component management significantly improved today.
 
-**Link to work**: [Artist page made with react-app](https://github.com/criminy-git/react-project-artist-page)
+**Link to work**: [Artist page made with react-app](https://github.com/j-pohl/react-project-artist-page)
 
 ---
 
