@@ -88,7 +88,7 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 
 **Thoughts**: Very productive day, really implemented API knowledge and practiced CSS styling as well as DOM manipulation with JavaScript.
 
-**Link to work**: [Random Activity Bot project](https://criminy-git.github.io/random-activity-bot/)
+**Link to work**: [Random Activity Bot project](https://github.com/j-pohl/random-activity-bot)
 ---
 
 ### Day 10: January 10, 2022
@@ -216,7 +216,7 @@ didn't get everything implemented I wanted but not a bad outcome.
 
 **Thoughts**: Time to refocus on the course along with fundamentals.
 
-**Link to work**: [Second API project practising promises](https://criminy-git.github.io/api-challenge-project/)
+**Link to work**: Second API project practising promises
 
 
 ---
