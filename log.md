@@ -340,11 +340,21 @@ components to functional components, immutable data types. Practiced by creating
 
 **Thoughts**: Need to master the switch from class to functional components.
 
-**Link to work**: uploading tomorrow
+**Link to work**: coming soon
 
 ---
 
-### Day : February th, 2022
+### Day 36: March 17th, 2022
+
+**Today's Progress**: After a month of not updating my GitHub logs due to completing the first 2/3 of a very intensive React course at General Assembly I am back! Lots of progress has been happening since, but yesterday I made my first custom hook to save data in the browser's local storage. This will be useful for the final project of the course I have just started working on.
+
+**Thoughts**: It felt like I was gone for ages but it really was just a month of intense work on my React knowledge, together with a very intense life month. Busy times happen and it feels good to get back to documenting my progress.
+
+**Link to work**: []()
+
+---
+
+### Day : March th, 2022
 
 **Today's Progress**: 
 
@@ -353,4 +363,3 @@ components to functional components, immutable data types. Practiced by creating
 **Link to work**: []()
 
 ---
-
