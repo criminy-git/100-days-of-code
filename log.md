@@ -354,6 +354,14 @@ components to functional components, immutable data types. Practiced by creating
 
 ---
 
+### Day 37: March 19th, 2022
+
+**Today's Progress**: Started workign on my final project for my course - a website for my artworks with a store. Set up the main components, imported React Router and set up routes and links. 
+
+**Thoughts**: Going to put some work into the styling and get some content happening next.
+
+---
+
 ### Day : March th, 2022
 
 **Today's Progress**: 
@@ -361,5 +369,7 @@ components to functional components, immutable data types. Practiced by creating
 **Thoughts**: 
 
 **Link to work**: []()
+
+---
 
 ---
