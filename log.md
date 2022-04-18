@@ -364,9 +364,17 @@ components to functional components, immutable data types. Practiced by creating
 
 ### Day 38: March 27th, 2022
 
-**Today's Progress**: Have not logged every day in the last week, however especially today worked on final project. FInished wireframing of my website project, very satisfying and hugely helpful in figureing out what to do and when to do it. Set up more routes, found a way to import images as named exports and passing them as props to the gallery component of my app. Gettin more used to the Mac, shortcut to highlight same word throghout page Ctrl + Shift + L. Module not found usually a typo. Made lots of comments on what I plan to implement next time. Also one short video can solve a two day issue really quickly, keep looking for more sources to answers my own questions until finding the right one, getting better at recognising the right sources while I read them. 
+**Today's Progress**: Have not logged every day in the last week, however especially today worked on final project. Finished wireframing of my website project, very satisfying and hugely helpful in figureing out what to do and when to do it. Set up more routes, found a way to import images as named exports and passing them as props to the gallery component of my app. Getting more used to the Mac, shortcut to highlight same word throughout page Ctrl + Shift + L. Module not found usually a typo. Made lots of comments on what I plan to implement next time. Also one short video can solve a two day issue really quickly, keep looking for more sources to answers my own questions until finding the right one, getting better at recognising the right sources while I read them. 
 
 **Thoughts**: If a step seems to hard, go back to the next pervious easier step and then have another go at it. Don't underestimate the power of wireframing, suddenly a much clearer concept of both the website and the scope of work being new to project work.
+
+---
+
+### Day 39: April 18th, 2022
+
+**Today's Progress**: Worked on daily katas on Codewars the past 4 days, ranked up to 7 kyu in JavaScript.
+
+**Thoughts**: Planning to go over React concepts alongside Codewars practice.
 
 ---
 
@@ -379,5 +387,4 @@ components to functional components, immutable data types. Practiced by creating
 **Link to work**: []()
 
 ---
-
 
