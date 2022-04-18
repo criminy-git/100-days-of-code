@@ -374,7 +374,7 @@ components to functional components, immutable data types. Practiced by creating
 
 **Today's Progress**: Worked on daily katas on Codewars the past 4 days, ranked up to 7 kyu in JavaScript.
 
-**Thoughts**: Planning to go over React concepts alongside Codewars practice.
+**Thoughts**: Need to log here more, often forgetting to update my logbook despite daily practice. Planning to go over React concepts alongside Codewars practice.
 
 ---
 
