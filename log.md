@@ -378,7 +378,23 @@ components to functional components, immutable data types. Practiced by creating
 
 ---
 
-### Day : March th, 2022
+### Day 40: April 10th, 2022
+
+**Today's Progress**: Worked on Codewards challenges, studied regular expressions and their application.
+
+**Thoughts**: Realised how versatile regex is, very useful in terms of search and replace and authorisation.
+
+---
+
+### Day 41: April 20th, 2022
+
+**Today's Progress**: Sent out applications. Updated github profile and started work on portfolio.
+
+**Thoughts**: Excited about making a portfolio page!
+
+---
+
+### Day : April th, 2022
 
 **Today's Progress**: 
 
