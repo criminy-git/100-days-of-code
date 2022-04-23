@@ -394,6 +394,15 @@ components to functional components, immutable data types. Practiced by creating
 
 ---
 
+### Day 42: April 23rd, 2022
+
+**Today's Progress**: Worked through another codewars Kata, interview practice and started sideproject Javascript random password generator.
+
+**Thoughts**: Regular exercise is key.
+
+---
+
+
 ### Day : April th, 2022
 
 **Today's Progress**: 
