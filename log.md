@@ -402,6 +402,15 @@ components to functional components, immutable data types. Practiced by creating
 
 ---
 
+### Day 43: April 25th, 2022
+
+**Today's Progress**: Continued on Frontend Career Path, started building image carousel in vanilla Javascript. 
+
+**Thoughts**: Much easier to google syntax of what I am trying to do, know what to look for (classList.add, event listener syntax in plain Javascript after learning React, css properties to achieve styling ideas)
+
+**Link to work**: [Work in progres](https://j-pohl.github.io/carousel/)
+
+---
 
 ### Day : April th, 2022
 
