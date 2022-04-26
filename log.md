@@ -412,6 +412,16 @@ components to functional components, immutable data types. Practiced by creating
 
 ---
 
+### Day 44: April 26th, 2022
+
+**Today's Progress**: Progressedn in Frontend Career Path course, refreshed for of loop application, finished carousel project.
+
+**Thoughts**: Keep going daily, no matter how long for.
+
+**Link to work**: [Carousel latest version](https://j-pohl.github.io/carousel/)
+
+---
+
 ### Day : April th, 2022
 
 **Today's Progress**: 
@@ -419,6 +429,8 @@ components to functional components, immutable data types. Practiced by creating
 **Thoughts**: 
 
 **Link to work**: []()
+
+---
 
 ---
 
