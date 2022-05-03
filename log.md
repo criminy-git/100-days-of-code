@@ -433,14 +433,21 @@ components to functional components, immutable data types. Practiced by creating
 
 ---
 
-### Day : April th, 2022
+### Day 46: May 3rd, 2022
+
+**Today's Progress**: Had an interview and then practised on Codewars with a focus on palindrome algorithms.
+
+**Thoughts**: Feels good to be able to solve algorithms.
+
+---
+
+### Day : May th, 2022
 
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link to work**: []()
-
 
 ---
 
